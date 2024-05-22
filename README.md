@@ -1,3 +1,3 @@
-# Lille python projekt
+Small danish Rock, Paper, Scissors
 
-Her har jeg lavet mit eget sten, saks, papir spil som kan spilles fra terminalen.
+Her har jeg et lille sten, saks, papir spil som spilles fra terminalen.
